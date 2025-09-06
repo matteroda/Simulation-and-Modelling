@@ -1,0 +1,496 @@
+area,year,Economically Inactive,percent
+barking and dagenham,2004,33600.0,31.8
+barking and dagenham,2005,32600.0,31.0
+barking and dagenham,2006,32800.0,31.3
+barking and dagenham,2007,29300.0,27.7
+barking and dagenham,2008,31800.0,29.3
+barking and dagenham,2009,32000.0,28.9
+barking and dagenham,2010,31800.0,27.6
+barking and dagenham,2011,34000.0,28.6
+barking and dagenham,2012,33400.0,27.7
+barking and dagenham,2013,30700.0,25.3
+barking and dagenham,2014,35100.0,28.1
+barking and dagenham,2015,33400.0,26.0
+barking and dagenham,2016,36000.0,27.5
+barking and dagenham,2017,32300.0,24.7
+barking and dagenham,2018,37200.0,27.4
+barnet,2004,51800.0,24.7
+barnet,2005,54900.0,25.6
+barnet,2006,57800.0,26.5
+barnet,2007,60300.0,27.4
+barnet,2008,60600.0,27.2
+barnet,2009,63900.0,28.0
+barnet,2010,57500.0,24.9
+barnet,2011,57900.0,24.7
+barnet,2012,61600.0,25.9
+barnet,2013,56000.0,23.3
+barnet,2014,63200.0,26.1
+barnet,2015,60300.0,24.7
+barnet,2016,69000.0,27.5
+barnet,2017,57600.0,23.1
+barnet,2018,61700.0,24.2
+bexley,2004,29300.0,21.0
+bexley,2005,28900.0,20.5
+bexley,2006,28800.0,20.5
+bexley,2007,32300.0,22.7
+bexley,2008,32200.0,22.4
+bexley,2009,35500.0,24.3
+bexley,2010,33600.0,22.9
+bexley,2011,33900.0,23.2
+bexley,2012,31200.0,21.2
+bexley,2013,29500.0,20.2
+bexley,2014,30200.0,20.2
+bexley,2015,28500.0,18.7
+bexley,2016,28900.0,18.5
+bexley,2017,33300.0,21.3
+bexley,2018,33100.0,21.1
+brent,2004,54600.0,30.1
+brent,2005,52400.0,28.4
+brent,2006,54500.0,29.2
+brent,2007,47600.0,24.6
+brent,2008,47700.0,24.0
+brent,2009,50200.0,24.4
+brent,2010,64200.0,30.2
+brent,2011,67400.0,30.8
+brent,2012,54100.0,25.2
+brent,2013,53300.0,24.7
+brent,2014,57000.0,26.5
+brent,2015,54600.0,24.9
+brent,2016,54100.0,24.8
+brent,2017,56200.0,25.8
+brent,2018,54400.0,24.7
+bromley,2004,36400.0,19.4
+bromley,2005,32500.0,17.2
+bromley,2006,39300.0,20.5
+bromley,2007,32700.0,17.0
+bromley,2008,37300.0,19.2
+bromley,2009,39200.0,20.2
+bromley,2010,45000.0,23.0
+bromley,2011,43500.0,21.9
+bromley,2012,41800.0,21.1
+bromley,2013,40000.0,19.7
+bromley,2014,41800.0,20.6
+bromley,2015,40700.0,20.1
+bromley,2016,38600.0,19.1
+bromley,2017,37000.0,18.2
+bromley,2018,37700.0,18.3
+camden,2004,40000.0,27.0
+camden,2005,46000.0,30.4
+camden,2006,42600.0,28.2
+camden,2007,43100.0,28.3
+camden,2008,42600.0,28.2
+camden,2009,43800.0,28.6
+camden,2010,40500.0,26.3
+camden,2011,51800.0,32.9
+camden,2012,46600.0,29.3
+camden,2013,51300.0,31.4
+camden,2014,47000.0,28.1
+camden,2015,48400.0,27.9
+camden,2016,46400.0,26.8
+camden,2017,50900.0,28.9
+camden,2018,44500.0,24.4
+city of london,2004,2000.0,22.3
+city of london,2005,2000.0,22.3
+city of london,2006,1600.0,41.3
+city of london,2007,1600.0,41.3
+city of london,2008,1600.0,41.3
+city of london,2009,1600.0,41.3
+city of london,2010,1600.0,41.3
+city of london,2011,1900.0,64.8
+city of london,2012,1900.0,64.8
+city of london,2013,1900.0,64.8
+city of london,2014,1900.0,64.8
+city of london,2015,2000.0,35.6
+city of london,2016,2000.0,35.6
+city of london,2017,3900.0,35.0
+city of london,2018,3900.0,35.0
+croydon,2004,48700.0,22.1
+croydon,2005,45700.0,20.7
+croydon,2006,50800.0,22.6
+croydon,2007,50200.0,21.9
+croydon,2008,49900.0,21.6
+croydon,2009,48100.0,20.4
+croydon,2010,52900.0,22.2
+croydon,2011,58900.0,24.6
+croydon,2012,46900.0,19.6
+croydon,2013,47200.0,19.5
+croydon,2014,50600.0,20.7
+croydon,2015,52600.0,21.3
+croydon,2016,44900.0,18.3
+croydon,2017,48100.0,19.6
+croydon,2018,52400.0,20.9
+ealing,2004,55200.0,25.8
+ealing,2005,58500.0,27.1
+ealing,2006,53500.0,24.6
+ealing,2007,59900.0,27.3
+ealing,2008,60300.0,26.6
+ealing,2009,60000.0,26.3
+ealing,2010,57100.0,25.1
+ealing,2011,55100.0,24.1
+ealing,2012,55300.0,24.0
+ealing,2013,58700.0,25.6
+ealing,2014,59100.0,25.7
+ealing,2015,51200.0,22.6
+ealing,2016,47900.0,21.3
+ealing,2017,46500.0,20.5
+ealing,2018,48400.0,21.4
+enfield,2004,49500.0,27.1
+enfield,2005,47500.0,25.9
+enfield,2006,47400.0,25.7
+enfield,2007,57500.0,30.5
+enfield,2008,52100.0,27.1
+enfield,2009,62700.0,32.1
+enfield,2010,60800.0,30.8
+enfield,2011,53300.0,26.2
+enfield,2012,57600.0,28.2
+enfield,2013,55900.0,27.2
+enfield,2014,53300.0,25.7
+enfield,2015,51400.0,24.4
+enfield,2016,53600.0,25.3
+enfield,2017,57500.0,26.5
+enfield,2018,57800.0,26.7
+greenwich,2004,40200.0,26.6
+greenwich,2005,39600.0,25.6
+greenwich,2006,42200.0,26.8
+greenwich,2007,40000.0,25.2
+greenwich,2008,46900.0,29.1
+greenwich,2009,47800.0,29.2
+greenwich,2010,43800.0,26.1
+greenwich,2011,40900.0,23.9
+greenwich,2012,38800.0,22.3
+greenwich,2013,49000.0,27.6
+greenwich,2014,44700.0,24.9
+greenwich,2015,39500.0,21.3
+greenwich,2016,39100.0,21.1
+greenwich,2017,41200.0,21.8
+greenwich,2018,47200.0,24.2
+hackney,2004,53800.0,36.8
+hackney,2005,60400.0,40.6
+hackney,2006,50700.0,33.2
+hackney,2007,46400.0,29.3
+hackney,2008,45500.0,27.8
+hackney,2009,41400.0,24.5
+hackney,2010,41900.0,24.1
+hackney,2011,48600.0,27.2
+hackney,2012,54800.0,30.0
+hackney,2013,55200.0,29.8
+hackney,2014,48600.0,25.6
+hackney,2015,51700.0,26.7
+hackney,2016,49800.0,25.2
+hackney,2017,50400.0,25.2
+hackney,2018,52000.0,25.7
+hammersmith and fulham,2004,31900.0,25.3
+hammersmith and fulham,2005,31000.0,24.4
+hammersmith and fulham,2006,31500.0,24.3
+hammersmith and fulham,2007,30700.0,23.6
+hammersmith and fulham,2008,30700.0,23.6
+hammersmith and fulham,2009,35000.0,26.3
+hammersmith and fulham,2010,38200.0,28.5
+hammersmith and fulham,2011,37800.0,27.9
+hammersmith and fulham,2012,32100.0,24.0
+hammersmith and fulham,2013,32900.0,24.7
+hammersmith and fulham,2014,25700.0,19.5
+hammersmith and fulham,2015,24800.0,19.0
+hammersmith and fulham,2016,27900.0,21.4
+hammersmith and fulham,2017,27100.0,20.9
+hammersmith and fulham,2018,24000.0,18.9
+haringey,2004,55600.0,35.2
+haringey,2005,45500.0,28.5
+haringey,2006,43600.0,26.6
+haringey,2007,48600.0,29.3
+haringey,2008,55800.0,32.5
+haringey,2009,56300.0,32.2
+haringey,2010,56300.0,31.8
+haringey,2011,47700.0,26.3
+haringey,2012,50100.0,27.6
+haringey,2013,46200.0,25.2
+haringey,2014,47500.0,25.6
+haringey,2015,45400.0,24.2
+haringey,2016,44700.0,23.3
+haringey,2017,50100.0,26.4
+haringey,2018,44500.0,22.6
+harrow,2004,33700.0,23.5
+harrow,2005,35800.0,24.5
+harrow,2006,32100.0,21.7
+harrow,2007,34100.0,23.0
+harrow,2008,39400.0,26.5
+harrow,2009,32000.0,21.1
+harrow,2010,34200.0,22.0
+harrow,2011,33600.0,21.4
+harrow,2012,34600.0,22.1
+harrow,2013,38700.0,24.7
+harrow,2014,36600.0,23.4
+harrow,2015,35300.0,22.5
+harrow,2016,36700.0,23.2
+harrow,2017,28600.0,18.3
+harrow,2018,30300.0,19.7
+havering,2004,31300.0,22.1
+havering,2005,32200.0,22.4
+havering,2006,33000.0,22.8
+havering,2007,30200.0,20.8
+havering,2008,27700.0,18.9
+havering,2009,33300.0,22.3
+havering,2010,40100.0,26.6
+havering,2011,29900.0,19.8
+havering,2012,36200.0,23.8
+havering,2013,34700.0,22.9
+havering,2014,29000.0,18.7
+havering,2015,30100.0,19.4
+havering,2016,27600.0,17.4
+havering,2017,32400.0,20.4
+havering,2018,27300.0,17.0
+hillingdon,2004,35700.0,21.9
+hillingdon,2005,39900.0,24.3
+hillingdon,2006,37600.0,22.6
+hillingdon,2007,52200.0,30.9
+hillingdon,2008,39700.0,23.2
+hillingdon,2009,37500.0,21.7
+hillingdon,2010,44300.0,25.3
+hillingdon,2011,43600.0,23.8
+hillingdon,2012,41900.0,22.6
+hillingdon,2013,42900.0,22.8
+hillingdon,2014,43700.0,22.9
+hillingdon,2015,43300.0,22.2
+hillingdon,2016,41000.0,21.1
+hillingdon,2017,42100.0,21.5
+hillingdon,2018,43000.0,21.6
+hounslow,2004,36000.0,24.0
+hounslow,2005,34200.0,22.4
+hounslow,2006,32700.0,20.7
+hounslow,2007,43600.0,26.9
+hounslow,2008,40800.0,24.9
+hounslow,2009,37900.0,22.5
+hounslow,2010,38400.0,22.4
+hounslow,2011,38500.0,22.0
+hounslow,2012,38700.0,22.0
+hounslow,2013,35000.0,19.7
+hounslow,2014,36700.0,20.5
+hounslow,2015,40000.0,22.4
+hounslow,2016,40300.0,22.4
+hounslow,2017,33000.0,18.6
+hounslow,2018,33000.0,18.2
+islington,2004,40200.0,30.7
+islington,2005,43500.0,32.8
+islington,2006,37700.0,28.1
+islington,2007,35700.0,26.0
+islington,2008,38100.0,27.1
+islington,2009,38800.0,26.7
+islington,2010,41900.0,28.6
+islington,2011,37500.0,24.4
+islington,2012,43600.0,27.5
+islington,2013,39400.0,24.6
+islington,2014,42500.0,25.9
+islington,2015,39900.0,23.6
+islington,2016,42700.0,24.8
+islington,2017,35400.0,20.3
+islington,2018,34600.0,19.7
+kensington and chelsea,2004,38600.0,32.3
+kensington and chelsea,2005,35800.0,29.4
+kensington and chelsea,2006,39600.0,33.5
+kensington and chelsea,2007,35400.0,30.3
+kensington and chelsea,2008,35000.0,29.8
+kensington and chelsea,2009,37900.0,32.1
+kensington and chelsea,2010,38200.0,33.1
+kensington and chelsea,2011,37400.0,32.9
+kensington and chelsea,2012,34500.0,31.0
+kensington and chelsea,2013,32400.0,29.5
+kensington and chelsea,2014,28300.0,25.8
+kensington and chelsea,2015,31700.0,28.9
+kensington and chelsea,2016,29300.0,27.1
+kensington and chelsea,2017,27300.0,26.1
+kensington and chelsea,2018,36600.0,35.2
+kingston upon thames,2004,24000.0,23.0
+kingston upon thames,2005,24200.0,22.9
+kingston upon thames,2006,23600.0,22.2
+kingston upon thames,2007,27000.0,25.4
+kingston upon thames,2008,25000.0,23.4
+kingston upon thames,2009,23200.0,21.6
+kingston upon thames,2010,24200.0,22.4
+kingston upon thames,2011,28300.0,25.9
+kingston upon thames,2012,26600.0,24.2
+kingston upon thames,2013,23500.0,21.2
+kingston upon thames,2014,23300.0,20.9
+kingston upon thames,2015,25200.0,22.3
+kingston upon thames,2016,26700.0,23.0
+kingston upon thames,2017,24700.0,21.5
+kingston upon thames,2018,26900.0,22.4
+lambeth,2004,47600.0,24.3
+lambeth,2005,54300.0,27.2
+lambeth,2006,61200.0,30.2
+lambeth,2007,50700.0,24.4
+lambeth,2008,50100.0,23.9
+lambeth,2009,40500.0,18.7
+lambeth,2010,44000.0,20.0
+lambeth,2011,40900.0,18.2
+lambeth,2012,47700.0,20.9
+lambeth,2013,35600.0,15.3
+lambeth,2014,34800.0,14.7
+lambeth,2015,38900.0,16.4
+lambeth,2016,34600.0,14.3
+lambeth,2017,36600.0,15.0
+lambeth,2018,43400.0,17.8
+lewisham,2004,40400.0,23.3
+lewisham,2005,41100.0,23.4
+lewisham,2006,42100.0,23.7
+lewisham,2007,45200.0,24.9
+lewisham,2008,42300.0,22.7
+lewisham,2009,41600.0,22.0
+lewisham,2010,52900.0,27.8
+lewisham,2011,50600.0,26.0
+lewisham,2012,48900.0,25.0
+lewisham,2013,39600.0,20.1
+lewisham,2014,42300.0,21.0
+lewisham,2015,40100.0,19.5
+lewisham,2016,41700.0,20.0
+lewisham,2017,27900.0,13.4
+lewisham,2018,36900.0,17.4
+merton,2004,23900.0,18.6
+merton,2005,31200.0,23.9
+merton,2006,27700.0,21.0
+merton,2007,24700.0,18.6
+merton,2008,23100.0,17.3
+merton,2009,28800.0,21.2
+merton,2010,29900.0,22.0
+merton,2011,30100.0,22.1
+merton,2012,29000.0,21.2
+merton,2013,27600.0,19.9
+merton,2014,27200.0,19.7
+merton,2015,24200.0,17.5
+merton,2016,27200.0,19.8
+merton,2017,24900.0,18.4
+merton,2018,20600.0,14.8
+newham,2004,67100.0,39.3
+newham,2005,65800.0,38.4
+newham,2006,61100.0,34.8
+newham,2007,65400.0,36.0
+newham,2008,64000.0,33.9
+newham,2009,68100.0,34.7
+newham,2010,76500.0,36.4
+newham,2011,77700.0,35.5
+newham,2012,65800.0,29.6
+newham,2013,66400.0,29.5
+newham,2014,75200.0,32.7
+newham,2015,64500.0,27.3
+newham,2016,59100.0,24.5
+newham,2017,64400.0,26.6
+newham,2018,66800.0,27.1
+redbridge,2004,36300.0,22.5
+redbridge,2005,50700.0,30.9
+redbridge,2006,45300.0,27.2
+redbridge,2007,50400.0,29.6
+redbridge,2008,50500.0,28.9
+redbridge,2009,48600.0,27.4
+redbridge,2010,53600.0,29.6
+redbridge,2011,54300.0,29.7
+redbridge,2012,52500.0,28.4
+redbridge,2013,46900.0,24.8
+redbridge,2014,48500.0,25.4
+redbridge,2015,49200.0,25.5
+redbridge,2016,44300.0,22.7
+redbridge,2017,47300.0,24.2
+redbridge,2018,54600.0,27.1
+richmond upon thames,2004,30400.0,25.1
+richmond upon thames,2005,26100.0,21.4
+richmond upon thames,2006,26500.0,21.3
+richmond upon thames,2007,23800.0,19.3
+richmond upon thames,2008,26400.0,21.3
+richmond upon thames,2009,26400.0,21.6
+richmond upon thames,2010,23500.0,19.2
+richmond upon thames,2011,28200.0,22.5
+richmond upon thames,2012,25600.0,20.3
+richmond upon thames,2013,24700.0,19.8
+richmond upon thames,2014,22000.0,17.7
+richmond upon thames,2015,21300.0,17.3
+richmond upon thames,2016,19900.0,15.9
+richmond upon thames,2017,29000.0,23.1
+richmond upon thames,2018,23900.0,19.3
+southwark,2004,47100.0,26.2
+southwark,2005,57800.0,31.1
+southwark,2006,55100.0,28.9
+southwark,2007,56800.0,29.0
+southwark,2008,54000.0,27.0
+southwark,2009,51500.0,25.4
+southwark,2010,46900.0,22.7
+southwark,2011,59300.0,28.0
+southwark,2012,50600.0,23.7
+southwark,2013,58700.0,26.9
+southwark,2014,45700.0,20.8
+southwark,2015,43500.0,19.4
+southwark,2016,41500.0,18.4
+southwark,2017,35500.0,15.5
+southwark,2018,40400.0,17.4
+sutton,2004,25700.0,21.6
+sutton,2005,21100.0,17.6
+sutton,2006,21500.0,18.1
+sutton,2007,23300.0,19.6
+sutton,2008,25300.0,20.7
+sutton,2009,23100.0,18.8
+sutton,2010,23000.0,18.6
+sutton,2011,25200.0,20.2
+sutton,2012,24700.0,19.7
+sutton,2013,21100.0,16.8
+sutton,2014,23000.0,18.0
+sutton,2015,22400.0,17.4
+sutton,2016,22100.0,17.1
+sutton,2017,20900.0,16.1
+sutton,2018,21000.0,16.2
+tower hamlets,2004,56600.0,38.4
+tower hamlets,2005,51700.0,34.6
+tower hamlets,2006,58500.0,38.0
+tower hamlets,2007,59700.0,37.1
+tower hamlets,2008,51300.0,30.4
+tower hamlets,2009,53000.0,30.0
+tower hamlets,2010,55800.0,30.6
+tower hamlets,2011,57600.0,30.6
+tower hamlets,2012,58400.0,30.2
+tower hamlets,2013,53800.0,26.8
+tower hamlets,2014,49500.0,23.7
+tower hamlets,2015,48800.0,22.6
+tower hamlets,2016,49200.0,22.3
+tower hamlets,2017,70400.0,31.3
+tower hamlets,2018,52300.0,22.7
+waltham forest,2004,47800.0,31.7
+waltham forest,2005,41800.0,27.6
+waltham forest,2006,43600.0,27.9
+waltham forest,2007,45500.0,28.4
+waltham forest,2008,49600.0,30.2
+waltham forest,2009,47800.0,28.3
+waltham forest,2010,46300.0,26.6
+waltham forest,2011,42400.0,23.8
+waltham forest,2012,44900.0,25.3
+waltham forest,2013,41700.0,23.4
+waltham forest,2014,44400.0,24.9
+waltham forest,2015,41700.0,22.7
+waltham forest,2016,38600.0,20.9
+waltham forest,2017,34200.0,18.7
+waltham forest,2018,36400.0,19.5
+wandsworth,2004,42100.0,20.4
+wandsworth,2005,47200.0,22.5
+wandsworth,2006,48500.0,22.6
+wandsworth,2007,45700.0,21.1
+wandsworth,2008,41500.0,18.9
+wandsworth,2009,38900.0,17.5
+wandsworth,2010,46700.0,21.0
+wandsworth,2011,42100.0,18.7
+wandsworth,2012,45900.0,20.2
+wandsworth,2013,40800.0,17.9
+wandsworth,2014,39600.0,17.3
+wandsworth,2015,39100.0,16.8
+wandsworth,2016,39500.0,17.0
+wandsworth,2017,42700.0,18.5
+wandsworth,2018,38100.0,16.3
+westminster,2004,49200.0,31.2
+westminster,2005,49700.0,30.6
+westminster,2006,54000.0,32.2
+westminster,2007,55000.0,33.0
+westminster,2008,50800.0,31.5
+westminster,2009,43300.0,27.4
+westminster,2010,50000.0,31.7
+westminster,2011,51900.0,32.0
+westminster,2012,48400.0,29.6
+westminster,2013,46700.0,28.9
+westminster,2014,47900.0,29.3
+westminster,2015,46400.0,27.8
+westminster,2016,46200.0,27.6
+westminster,2017,48800.0,29.7
+westminster,2018,48300.0,28.0
